@@ -1,0 +1,45 @@
+{
+  "name": "ReactGrid",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "browser-sync": "~2.7.1",
+    "browserify": "~10.1.1",
+    "del": "~1.1.1",
+    "gulp": "~3.8.11",
+    "gulp-concat": "~2.5.2",
+    "gulp-less": "~3.0.3",
+    "gulp-run": "~1.6.8",
+    "reactify": "~1.1.0",
+    "vinyl-source-stream": "^1.1.0",
+    "react": "^0.13.2"
+  },
+  "paths": {
+    "less": "src/styles/*.less",
+    "js": "src/app/**/*.js",
+    "jsx": "src/app/**/*.jsx",
+    "app": "src/app/app.js",
+    "main": "src/app/main.js",
+    "html": "src/*.html"
+  },
+  "dest": {
+    "style": "style.css",
+    "app": "app.js",
+    "main": "main.js",
+    "dist": "dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/boskya/ReactGrid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boskya/ReactGrid/issues"
+  },
+  "homepage": "https://github.com/boskya/ReactGrid",
+  "dependencies": {
+    "react": "^0.13.2"
+  }
+}
