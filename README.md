@@ -1,4 +1,6 @@
 # ReactGrid
+
+[![Join the chat at https://gitter.im/boskya/ReactGrid](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/boskya/ReactGrid?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ReactGrid
 
 Installation And getting it running:
